@@ -4309,7 +4309,7 @@ const addresses = [
 ];
 
 // Define the API key before using it
-const apiKey = "AIzaSyBdSpzkIBC5ucfZOY9BuexUX_3dTeNHC4k"; // Make sure this is valid
+const apiKey = "hello muthafuckas"; // Make sure this is valid
 
 async function geocodeAddresses(addresses, apiKey) {
   const results = [];
